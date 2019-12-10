@@ -1,0 +1,8 @@
+AWS offers us pseudo parameters in any cloudFormatin
+
+- AWS::AccountId 
+- AWS::NotificationARNs
+- AWS::NoValue
+- AWS::Region
+- AWS::StackId
+- AWS::StackName
